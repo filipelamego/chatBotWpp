@@ -1,6 +1,6 @@
 # 🤖 Chatbot de Atendimento via WhatsApp
 
-Este projeto é um chatbot desenvolvido em **Node.js** utilizando a biblioteca [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) para automação de mensagens no WhatsApp. 
+Este projeto é um chatbot desenvolvido em **Node.js** utilizando a biblioteca Baileys Auth para automação de mensagens no WhatsApp. 
 O bot realiza atendimento automatizado com menus interativos e integração com banco de dados MySQL.
 
 ## 🚀 Funcionalidades
